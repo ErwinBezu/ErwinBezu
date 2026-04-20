@@ -1,17 +1,15 @@
-### 👋 Salut, moi c’est Erwin
+### Salut, moi c’est Erwin
 
-🎯 Développeur spécialisé en **ReactJS**, passionné par :
+Développeur spécialisé en **ReactJS** et **Java Spring Boot**, passionné par :
 - l’**accessibilité**
 - la **sécurité**
 - le **Green IT**
 
-🎓 Actuellement en formation pour le **Titre professionnel de Concepteur Développeur d’Applications** (niveau 6)
+J'ai obtenu le **Titre professionnel de Concepteur Développeur d’Applications** (niveau 6)
 
-🧑‍💻 Je suis à la recherche d’un **stage de 5 mois à partir d’octobre 2025**
+Ce que j’aime : le **travail en équipe**, les **méthodes agiles** et le **code propre et maintenable**
 
-💬 Ce que j’aime : le **travail en équipe**, les **méthodes agiles** et le **code propre et maintenable**
-
-🚀 Toujours curieux, j’aime apprendre, progresser et relever de nouveaux défis techniques
+Toujours curieux, j’aime apprendre, progresser et relever de nouveaux défis techniques
 
 ---
 
