@@ -5,7 +5,7 @@ Développeur spécialisé en **ReactJS** et **Java Spring Boot**, passionné par
 - la **sécurité**
 - le **Green IT**
 
-J'ai obtenu le **Titre professionnel de Concepteur Développeur d’Applications** (niveau 6)
+J'ai obtenu le **Titre professionnel de Concepteur Développeur d’Applications** (niveau 6) et je suis en formation pour être **Data Engineer**
 
 Ce que j’aime : le **travail en équipe**, les **méthodes agiles** et le **code propre et maintenable**
 
